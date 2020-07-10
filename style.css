@@ -1,0 +1,24 @@
+.container{
+    height: 594px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(img.jpg);
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    color: white;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    border: whitesmoke 5px dotted;
+    
+
+.buttons{
+    text-align: center;
+
+    
+}
